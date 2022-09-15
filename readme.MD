@@ -45,3 +45,34 @@ OBS: As ferramentas utilizadas para este desenvolvimento não foram abordadas no
   >https://eventos-botucatu-sergio.netlify.app/eventos
 
   OBS: Note que mesmo para execução no site, as APIs devem estar em execução local.
+
+  ---
+## 📲 Apresentação do Projeto
+
+Página Inicial
+
+![UML](homepage.jpg "Home Page")
+
+<br>
+
+Lista de eventos cadastrados
+
+![UML](eventos.jpg "Eventos Cadastrados")
+
+<br>
+
+Formulário para cadastro de um novo evento
+
+![UML](cadastro_eventos.jpg "Cadastro eventos")
+
+<br>
+
+Lista de reservas cadastradas
+
+![UML](reservas.jpg "Reservas cadastradas")
+
+<br>
+
+Formulário para cadastro de uma nova reserva
+
+![UML](cadastro_reservas.jpg "Cadastro reservas")
