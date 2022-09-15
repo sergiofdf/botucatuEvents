@@ -40,3 +40,8 @@ OBS: As ferramentas utilizadas para este desenvolvimento não foram abordadas no
   - Clone o repositório: `git clone https://github.com/sergiofdf/botucatuEvents.git`
 
   - Execute o projeto abrindo sua pasta em um terminal, e executando o comando `npm run dev`.
+
+- Também foi feito deploy do projeto no Netlify:
+  >https://eventos-botucatu-sergio.netlify.app/eventos
+
+  OBS: Note que mesmo para execução no site, as APIs devem estar em execução local.
